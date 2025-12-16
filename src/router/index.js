@@ -32,5 +32,5 @@ router.beforeEach((to, from, next) => {
 
   next();
 });
-
+//test
 export default router;
